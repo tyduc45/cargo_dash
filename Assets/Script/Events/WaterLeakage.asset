@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc3b8857502ec14448e4e1517a422f98, type: 3}
+  m_Name: WaterLeakage
+  m_EditorClassIdentifier: Assembly-CSharp::GameEvent
+  eventName: WaterLeakage
+  behaviourPrefab: {fileID: 5706631863332345475, guid: c564015e62da29340a3a36fe955dbce4, type: 3}
+  weight: 1

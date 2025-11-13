@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4784772158967077493
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7933897367638118765}
+  - component: {fileID: 403846957534349192}
+  m_Layer: 0
+  m_Name: EmergencyLockDown(L2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7933897367638118765
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4784772158967077493}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.120271474, y: -2.211572, z: 0.06588448}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &403846957534349192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4784772158967077493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b8afb49bada7748b868b83c4b7bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  warningPrefab: {fileID: 6913685096778511680, guid: 7fc2482f4894add498ca2fd2d7912b49, type: 3}
+  wallPrefab: {fileID: 4911912641564840942, guid: 9c4c19edd699e86419f188b9e043c296, type: 3}
+  warningDuration: 3
+  dropDuration: 0.3
+  stayDuration: 5
+  riseDuration: 5
+  receivingPorts:
+  - {fileID: 3687965492397856585, guid: a64d45e9473d4214fb25f220114af5aa, type: 3}
+  - {fileID: 135772357910959303, guid: 351c57f813a9d114f9e1d6dc425ed275, type: 3}
+  - {fileID: 3141725376959714340, guid: b13b7ca90c0798e4a95791807bd5fcc4, type: 3}

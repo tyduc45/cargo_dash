@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2211170204429487068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5564092654921447714}
+  - component: {fileID: 5909676563935768177}
+  m_Layer: 0
+  m_Name: Event_TextManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5564092654921447714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2211170204429487068}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5909676563935768177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2211170204429487068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae1a4eeb606ef0e4194a0bc25cd8b0e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventFont: {fileID: 11400000, guid: 7820e9b334f63d947b34a9b427196ddb, type: 2}
+  slowFont: {fileID: 11400000, guid: 7d2802cc29dd4614890588d656c2c5c4, type: 2}
+  stunFont: {fileID: 11400000, guid: 30ea39fcf812698498dd6268952eaf5a, type: 2}
+  hitFont: {fileID: 11400000, guid: 735954d8af5746d4894e72bc6023ff19, type: 2}
+  buffFont: {fileID: 11400000, guid: 171596c5030522940a7a9082dc20ab8f, type: 2}
+  messageFont: {fileID: 11400000, guid: 685ad879b273f3345a1d2cbd80ae3563, type: 2}
+  comboFont: {fileID: 11400000, guid: c22a31996af71194eb62b6eeabaaa5a0, type: 2}
+  slowGradient: {fileID: 11400000, guid: c5235fd827599054692038df13bb7c4c, type: 2}
+  stunGradient: {fileID: 11400000, guid: 09c00d6d985a1fd42b1d935aad9bfc88, type: 2}
+  hitGradient: {fileID: 11400000, guid: 4def5afe37061834c860a20b0b467684, type: 2}
+  messageGradient: {fileID: 11400000, guid: c80af7caff919f44b81f40357a3955de, type: 2}
+  comboGradient: {fileID: 11400000, guid: 4def5afe37061834c860a20b0b467684, type: 2}
+  buffGradient: {fileID: 11400000, guid: 92332e01e450e584d9742cf647a516f6, type: 2}

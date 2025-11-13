@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 8fa24dc29973426419c2c6b54d76a9bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3828286055769346895
+    second: Water_Wave_80x32_0
+  - first:
+      213: 5936699791340895334
+    second: Water_Wave_80x32_1
+  - first:
+      213: 4598063829554022098
+    second: Water_Wave_80x32_2
+  - first:
+      213: -7922149551320607256
+    second: Water_Wave_80x32_3
+  - first:
+      213: -6149782479003788856
+    second: Water_Wave_80x32_4
+  - first:
+      213: 4437225107348468715
+    second: Water_Wave_80x32_5
+  - first:
+      213: 7877437830684627666
+    second: Water_Wave_80x32_6
+  - first:
+      213: -4610012862154054264
+    second: Water_Wave_80x32_7
+  - first:
+      213: -8663905333931217555
+    second: Water_Wave_80x32_8
+  - first:
+      213: -1690976308961600548
+    second: Water_Wave_80x32_9
+  - first:
+      213: -7011979256790405331
+    second: Water_Wave_80x32_10
+  - first:
+      213: -3664153880137226500
+    second: Water_Wave_80x32_11
+  - first:
+      213: 1758944417786199431
+    second: Water_Wave_80x32_12
+  - first:
+      213: 6452848151315181571
+    second: Water_Wave_80x32_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water_Wave_80x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 44
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4396b472edc02530800000000000000
+      internalID: 3828286055769346895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c72099105636250800000000000000
+      internalID: 5936699791340895334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 95
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c32ff0ba9fcf30800000000000000
+      internalID: 4598063829554022098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 95
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d308d4fede0290800000000000000
+      internalID: -7922149551320607256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 63
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9de051b6597aaa0800000000000000
+      internalID: -6149782479003788856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be333f7c9b0349d30800000000000000
+      internalID: 4437225107348468715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 63
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25e2678f7425d60800000000000000
+      internalID: 7877437830684627666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 75
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885635d0ab1f500c0800000000000000
+      internalID: -4610012862154054264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 31
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dea6b8000a3c780800000000000000
+      internalID: -8663905333931217555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 71
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb1eb491027888e0800000000000000
+      internalID: -1690976308961600548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 31
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fa99a540270be90800000000000000
+      internalID: -7011979256790405331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf62d04a57f462dc0800000000000000
+      internalID: -3664153880137226500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7dc1f0a6096810800000000000000
+      internalID: 1758944417786199431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_Wave_80x32_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007da8743f1d8950800000000000000
+      internalID: 6452848151315181571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b990e18271dc6a64ebc72e53c6393b2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Water_Wave_80x32_0: 3828286055769346895
+      Water_Wave_80x32_1: 5936699791340895334
+      Water_Wave_80x32_10: -7011979256790405331
+      Water_Wave_80x32_11: -3664153880137226500
+      Water_Wave_80x32_12: 1758944417786199431
+      Water_Wave_80x32_13: 6452848151315181571
+      Water_Wave_80x32_2: 4598063829554022098
+      Water_Wave_80x32_3: -7922149551320607256
+      Water_Wave_80x32_4: -6149782479003788856
+      Water_Wave_80x32_5: 4437225107348468715
+      Water_Wave_80x32_6: 7877437830684627666
+      Water_Wave_80x32_7: -4610012862154054264
+      Water_Wave_80x32_8: -8663905333931217555
+      Water_Wave_80x32_9: -1690976308961600548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

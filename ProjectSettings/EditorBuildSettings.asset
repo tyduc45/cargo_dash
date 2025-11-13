@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/3DMainMenu.unity
+    guid: afc7dcbf3096c4ab5b7fd5940cb1593d
+  - enabled: 1
+    path: Assets/Scenes/3DLevelSelect.unity
+    guid: 3ba82cd8ee74e4cdca84b53bfbbbccea
+  - enabled: 1
+    path: Assets/Scenes/MainMenu_Complete.unity
+    guid: d1bbc25112c95ba4891be71ab7d21da5
+  - enabled: 1
+    path: Assets/Scenes/Level1_Complete.unity
+    guid: 8830c1815e31de84084fd997a34be8d4
+  - enabled: 1
+    path: Assets/Scenes/Level2_Complete.unity
+    guid: 85a186e1f637444499a618665c862195
+  - enabled: 1
+    path: Assets/Scenes/Level3_Complete.unity
+    guid: 492afb30f98b9414db715f2177040c77
+  - enabled: 1
+    path: Assets/Scenes/Level4_NightShift.unity
+    guid: 50e470ec9de2ae049afd2d41f5289e1f
+  - enabled: 1
+    path: Assets/Scenes/Level1_Design/Jacklyn/Level_3D 1.unity
+    guid: 53c9d2fde5169754a866fe88edee6964
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 12ef2d7f75b9f684c8b44fb9e9ef5a33
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

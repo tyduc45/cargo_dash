@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - ground
+  - player
+  - cargos
+  - cargo spawner
+  - cargo reciver
+  - shelf
+  - bird
+  - wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - spawn
+  - player
+  - clock
+  - reciver
+  - cargo
+  - shelf
+  - dangerZone
+  - noGLow
+  - pickup
+  - SpawnArea
+  - Front Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3551644861
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 625076959
+    locked: 0
+  m_RenderingLayers:
+  - Default
